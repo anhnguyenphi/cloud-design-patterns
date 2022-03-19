@@ -1,0 +1,1 @@
+Follow this article: https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/
